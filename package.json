@@ -1,0 +1,20 @@
+{
+  "name": "vitumob",
+  "version": "1.0.0",
+  "description": "my awesome shopping assistant",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "carolkariuki",
+  "license": "ISC",
+  "dependencies": {
+    "apiai": "^4.0.3",
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "request": "^2.85.0"
+  },
+  "devDependencies": {
+    "ws": "3.3.2"
+  }
+}
